@@ -1,6 +1,6 @@
 # CodeWars Challenges: <a target="_blank" href="https://www.codewars.com/users/Iouie" >Visit Here</a> 
 
-![alt tag](https://github.com/CharlesCreativeContent/CodeWars/blob/master/Screen%20Shot%202022-02-10%20at%202.54.15%20AM.png)
+![alt tag](https://github.com/Iouie/CodeWars/blob/main/ss.png)
 A repository filled with codewars challenges (kata). Currently Ranked #1305 on the global leaderboard, Completed over 1000+ challenges and Push 5 solutions every week.
 
 ## How It's Made:
