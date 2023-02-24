@@ -12,5 +12,5 @@ DiscoverOriginalPrice(75, 25) => 100.00M where 75 is the sale price (discounted 
 //Answer//
 
 function discoverOriginalPrice(discountedPrice, salePercentage){
-  return Math.floor((discountedPrice / ((100 - salePercentage) / 100)))
+  return parseFloat((discountedPrice / ((100 - salePercentage) / 100)).toFixed(2))
 }
