@@ -8,6 +8,7 @@ solution(5) // should return "Value is 00005"
 */
 
 
+// ANSWER //
 
 function solution(value){
 return `Value is ${value.toString().padStart(5, '0')}`
